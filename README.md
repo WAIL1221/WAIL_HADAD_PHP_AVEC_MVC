@@ -1,5 +1,7 @@
 Auteur : WAIL HADAD
 
+Le code est selon ma configuration et mes parametres
+veuillez changer le port de my sql et le mot de passe si nésséssaire.
 
 ## Description
 
